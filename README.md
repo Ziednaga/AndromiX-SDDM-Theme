@@ -2,7 +2,7 @@
 
   ![Dark Nord theme](AndromiX-SDDM-plasma-6/preview.png)
 
-AndromiX-SDDM-Theme is an SDDM theme fork based on the original Andromeda-KDE Plasma 6 project by Eliverlara ![Link](https://github.com/EliverLara/Andromeda-KDE/tree/master), enhanced to bring a fresh, modern look to your login experience. This fork focuses on revamping the visual presentation of the SDDM login screen by offering:
+AndromiX-SDDM-Theme is an SDDM theme fork based on the original ![Andromeda-KDE Plasma 6 project by EliverLara](https://github.com/EliverLara/Andromeda-KDE/tree/master), enhanced to bring a fresh, modern look to your login experience. This fork focuses on revamping the visual presentation of the SDDM login screen by offering:
 
 ## Revamped Digital Clock:
     
