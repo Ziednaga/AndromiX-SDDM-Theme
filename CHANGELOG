@@ -4,6 +4,8 @@
 ## [zReleased]
 
 ### Added
+- **Modern right-center clock** 
+  -classic clock disabled by default.
 - **Background Blur Effect:**
   - Introduced a blur effect to the left 50% of the screen:
     - Implemented a clipped `Item` container to confine the blur area.
@@ -15,6 +17,7 @@
   - Developed a light variant of the theme using Nord's light color palette:
     - Utilized colors from the Snow Storm palette (`#eceff4, #3B4252`) for backgrounds and UI elements. :contentReference[oaicite:1]{index=1}
     - Ensured consistency with Nord's design principles while providing a brighter interface option.
+  -Still in beta.
 
 ### Changed
 - **Z-Index Adjustments:**
