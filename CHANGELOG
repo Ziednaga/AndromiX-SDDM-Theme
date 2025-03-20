@@ -1,0 +1,28 @@
+## [0.1] - 2025-03-20
+# Changelog
+
+## [zReleased]
+
+### Added
+- **Background Blur Effect:**
+  - Introduced a blur effect to the left 50% of the screen:
+    - Implemented a clipped `Item` container to confine the blur area.
+    - Added a `ShaderEffectSource` targeting the `wallpaper` as the source within the defined area.
+    - Applied a `GaussianBlur` with a radius of 50 and 101 samples to achieve the desired blur intensity.
+    - Overlaid a semi-transparent `Rectangle` with the Nord color `#3B4252` and 50% opacity to enhance visual aesthetics. :contentReference[oaicite:0]{index=0}
+
+- **Light Theme Variant:**
+  - Developed a light variant of the theme using Nord's light color palette:
+    - Utilized colors from the Snow Storm palette (`#eceff4, #3B4252`) for backgrounds and UI elements. :contentReference[oaicite:1]{index=1}
+    - Ensured consistency with Nord's design principles while providing a brighter interface option.
+
+### Changed
+- **Z-Index Adjustments:**
+  - Ensured UI elements such as user avatars, password fields, and action buttons are rendered above the blur effect:
+    - Set the `z` property of the blur container and its children to -2.
+    - Assigned a higher `z` value (e.g., 1) to the container holding the UI elements to maintain proper layering.
+
+### Fixed
+- **UI Element Visibility:**
+  - Resolved an issue where UI components were not visible due to improper stacking order:
+    - Adjusted the `z` values to ensure all interactive elements are displayed correctly above the background blur.
