@@ -1,2 +1,18 @@
 # AndromiX-SDDM-Theme
-A little fork of Andromeda SDDM Theme By EliverLara
+AndromiX-SDDM-Theme is an SDDM theme fork based on the original Andromeda-KDE Plasma 6 project by Eliverlara, enhanced to bring a fresh, modern look to your login experience. This fork focuses on revamping the visual presentation of the SDDM login screen by offering:
+
+    Revamped Digital Clock:
+    The traditional digital clock has been replaced with a modern, stylish variant, strategically positioned at the center-right of the screen for enhanced visibility and design.
+
+    Enhanced Blur Effect:
+    The background blur effect has been modified with a Nord-inspired tint, creating a cool and elegant atmosphere that complements the overall aesthetics.
+
+    Contemporary Aesthetic:
+    With a clean and minimalist interface, AndromiX-SDDM-Theme blends functionality with attractive design, making it ideal for users seeking a login experience that stands out for its modernity and refinement.
+
+    Customizable Fork: Built on Andromeda-KDE and ready to adapt to your personal preferences modifying the main.qml file.
+
+This project is perfect for KDE users who want to personalize and modernize the appearance of their SDDM session manager without sacrificing the simplicity and usability of the original Andromeda-KDE.
+Key Features
+
+Contributions, suggestions, and feedback are welcome. Thank you for using AndromiX-KDE!
