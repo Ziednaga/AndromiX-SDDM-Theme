@@ -1,7 +1,6 @@
 # AndromiX-SDDM-Theme
-![Uploading preview.png…]()
 
-
+-Light variant still in beta-
 
 AndromiX-SDDM-Theme is an SDDM theme fork based on the original Andromeda-KDE Plasma 6 project by Eliverlara, enhanced to bring a fresh, modern look to your login experience. This fork focuses on revamping the visual presentation of the SDDM login screen by offering:
 
@@ -23,20 +22,20 @@ Contributions, suggestions, and feedback are welcome. Thank you for using Androm
 
 How to set up:
 
-git clone https://github.com/Ziednaga/AndromiX-SDDM-Theme
-sudo cp -r ~/AndromiX-SDDM-Theme/AndromiX-SDDM-Light-plasma-6 ~/AndromiX-SDDM-Theme/AndromiX-SDDM-plasma-6 /usr/share/sddm/themes/
+     git clone https://github.com/Ziednaga/AndromiX-SDDM-Theme
+     sudo cp -r ~/AndromiX-SDDM-Theme/AndromiX-SDDM-Light-plasma-6 ~/AndromiX-SDDM-Theme/AndromiX-SDDM-plasma-6 /usr/share/sddm/themes/
 
-If you want upgrade Andromix, then: 
+-If you want upgrade Andromix, then: 
 
-git clone https://github.com/Ziednaga/AndromiX-SDDM-Theme
-sudo rm -r /usr/share/sddm/themes/AndromiX-SDDM-Light-plasma-6
-sudo rm -r /usr/share/sddm/themes/AndromiX-SDDM-plasma-6
+     git clone https://github.com/Ziednaga/AndromiX-SDDM-Theme
+     sudo rm -r /usr/share/sddm/themes/AndromiX-SDDM-Light-plasma-6
+     sudo rm -r /usr/share/sddm/themes/AndromiX-SDDM-plasma-6
 
-#deletes old versions and:
+-Deletes old versions and:
 
-sudo cp -r ~/AndromiX-SDDM-Theme/AndromiX-SDDM-Light-plasma-6 /usr/share/sddm/themes/
-sudo cp -r ~/AndromiX-SDDM-Theme/AndromiX-SDDM-plasma-6 /usr/share/sddm/themes/
+    sudo cp -r ~/AndromiX-SDDM-Theme/AndromiX-SDDM-Light-plasma-6 /usr/share/sddm/themes/
+    sudo cp -r ~/AndromiX-SDDM-Theme/AndromiX-SDDM-plasma-6 /usr/share/sddm/themes/
 
-
+-Install new versions of the theme!
 
 
