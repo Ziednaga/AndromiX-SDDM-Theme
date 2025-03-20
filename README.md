@@ -1,4 +1,4 @@
-# AndromiX-SDDM-Theme
+# AndromiX-SDDM-Theme (KDE Plasma 6)
 
 -Light variant still in beta-
 
