@@ -34,6 +34,8 @@ This project is perfect for KDE users who want to personalize and modernize the 
 
 Contributions, suggestions, and feedback are welcome. Thank you for using AndromiX-KDE!
 
+### AndromiX SDDM Theme Nobara Linux edition still in plans
+
 # How to set up:
 
      git clone https://github.com/Ziednaga/AndromiX-SDDM-Theme
@@ -53,5 +55,6 @@ Contributions, suggestions, and feedback are welcome. Thank you for using Androm
 ## -Install new versions of the theme! 
 
 # Enjoy! :D
+
 
 
