@@ -27,22 +27,22 @@ This project is perfect for KDE users who want to personalize and modernize the 
 
 Contributions, suggestions, and feedback are welcome. Thank you for using AndromiX-KDE!
 
-How to set up:
+## How to set up:
 
      git clone https://github.com/Ziednaga/AndromiX-SDDM-Theme
      sudo cp -r ~/AndromiX-SDDM-Theme/AndromiX-SDDM-Light-plasma-6 ~/AndromiX-SDDM-Theme/AndromiX-SDDM-plasma-6 /usr/share/sddm/themes/
 
--If you want upgrade Andromix, then: 
+# -If you want upgrade Andromix, then: 
 
      git clone https://github.com/Ziednaga/AndromiX-SDDM-Theme
      sudo rm -r /usr/share/sddm/themes/AndromiX-SDDM-Light-plasma-6
      sudo rm -r /usr/share/sddm/themes/AndromiX-SDDM-plasma-6
 
--Deletes old versions and:
+# -Deletes old versions and:
 
     sudo cp -r ~/AndromiX-SDDM-Theme/AndromiX-SDDM-Light-plasma-6 /usr/share/sddm/themes/
     sudo cp -r ~/AndromiX-SDDM-Theme/AndromiX-SDDM-plasma-6 /usr/share/sddm/themes/
 
--Install new versions of the theme!
+# -Install new versions of the theme! Enjoy! :D
 
 
