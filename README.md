@@ -1,6 +1,7 @@
 # AndromiX-SDDM-Theme
-
 ![Uploading preview.png…]()
+
+
 
 AndromiX-SDDM-Theme is an SDDM theme fork based on the original Andromeda-KDE Plasma 6 project by Eliverlara, enhanced to bring a fresh, modern look to your login experience. This fork focuses on revamping the visual presentation of the SDDM login screen by offering:
 
