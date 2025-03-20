@@ -4,8 +4,7 @@
 ## [zReleased]
 
 ### Added
-- **Modern right-center clock** 
-  -classic clock disabled by default.
+- **Modern right-center clock**
 - **Background Blur Effect:**
   - Introduced a blur effect to the left 50% of the screen:
     - Implemented a clipped `Item` container to confine the blur area.
@@ -24,6 +23,7 @@
   - Ensured UI elements such as user avatars, password fields, and action buttons are rendered above the blur effect:
     - Set the `z` property of the blur container and its children to -2.
     - Assigned a higher `z` value (e.g., 1) to the container holding the UI elements to maintain proper layering.
+-**classic clock disabled by default on Main.qml file.**
 
 ### Fixed
 - **UI Element Visibility:**
