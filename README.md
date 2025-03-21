@@ -35,7 +35,7 @@ This project is perfect for KDE users who want to personalize and modernize the 
 Contributions, suggestions, and feedback are welcome. Thank you for using AndromiX-KDE!
 
 ### Plans to create AndromiX SDDM Theme Nobara Linux edition in the future.
-### Plans to change the action icon to someones made by me.
+### Plans to change the action icons to someones made by me in the nearby future.
 
 # How to set up:
 
