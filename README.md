@@ -27,6 +27,7 @@ AndromiX-SDDM-Theme is an SDDM theme fork based on the original ![Andromeda-KDE 
     modifying the main.qml or login.qml file.
 
 This project is perfect for KDE users who want to personalize and modernize the appearance of their SDDM session manager without sacrificing the simplicity and usability of the original Andromeda-KDE SDDM Theme.
+
 ------------
  
 ### -Light variant still in beta-
@@ -38,6 +39,8 @@ Contributions, suggestions, and feedback are welcome. Thank you for using Androm
 
 ### Plans to create AndromiX SDDM Theme Nobara Linux edition in the future.
 ### Plans to change the action icons to someones made by me in the nearby future.
+
+------------
 
 # How to set up:
 
